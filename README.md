@@ -1,6 +1,6 @@
 # Efficio - Task Manager
 
-Efficio is a practice project created following the TaskBuddy project. It is a powerful task management app built using ReactJS. It helps users manage daily tasks with ease — add, update, delete, track progress, and clear all tasks with just one click!
+Efficio is a practice project created following the TaskBuddy project. It is a basic task management app built using ReactJS, HTML, and CSS. It helps users manage daily tasks with ease, like add, update, delete, track progress, and clear all tasks with just one click!
 
 ---
 
@@ -15,7 +15,7 @@ Efficio is a practice project created following the TaskBuddy project. It is a p
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 * **Frontend:** React, Vite
 * **Styling:** Tailwind CSS
@@ -24,7 +24,7 @@ Efficio is a practice project created following the TaskBuddy project. It is a p
 
 ---
 
-## 📌 Development Notes
+## Development Notes
 
 1. Created Vite project & Git repo
 2. Installed Tailwind CSS & Prettier
